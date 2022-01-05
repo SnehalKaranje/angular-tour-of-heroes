@@ -24,7 +24,7 @@ If you want to build this project locally, install following on local machine:
 ## What I learnt:
 - Generate new component
 - Component metadata (element selector, templateUrl, styleUrls)
-- Pipe operator
+- Pipe operator (uppercase)
 - Two-way binding
 - Generate new interface
 - Decorators
