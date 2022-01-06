@@ -21,7 +21,7 @@ If you want to build this project locally, install following on local machine:
 - [Angular CLI](https://angular.io/cli)
 
 
-## What I learnt:
+## What I learnt from this tutorial:
 - Generate new component
 - Component metadata (element selector, templateUrl, styleUrls)
 - Pipe operator (uppercase)
@@ -37,9 +37,5 @@ If you want to build this project locally, install following on local machine:
 - Loosely coupled communication between services and component
 - Angular route (redirect route, parameterized route)
 - RouterLink directive
-- Decorators
-
-  <a href="https://angular.io/api/core/NgModule"><img alt="NgModule" src="https://img.shields.io/badge/@NgModule-blue"/></a>
-  <a href="https://angular.io/api/core/Component"><img alt="Component" src="https://img.shields.io/badge/@Component-blue"/></a>
-  <a href="https://angular.io/guide/inputs-outputs"><img alt="Input" src="https://img.shields.io/badge/@Input-blue"/></a>
-  <a href="https://angular.io/api/core/Injectable"><img alt="Injectable" src="https://img.shields.io/badge/@Injectable-blue"/></a>
+- Get data from a server(using in-memory web API)
+- Decorators <a href="https://angular.io/api/core/NgModule"><img alt="NgModule" src="https://img.shields.io/badge/@NgModule-blue"/></a> <a href="https://angular.io/api/core/Component"><img alt="Component" src="https://img.shields.io/badge/@Component-blue"/></a> <a href="https://angular.io/guide/inputs-outputs"><img alt="Input" src="https://img.shields.io/badge/@Input-blue"/></a> <a href="https://angular.io/api/core/Injectable"><img alt="Injectable" src="https://img.shields.io/badge/@Injectable-blue"/></a>
