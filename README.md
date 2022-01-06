@@ -34,6 +34,7 @@ If you want to build this project locally, install following on local machine:
 - Provider
 - Dependency Injection
 - Synchronous and Asynchronous calls
+- Loosely coupled communication between services and component
 - Decorators
 
   <a href="https://angular.io/api/core/NgModule"><img alt="NgModule" src="https://img.shields.io/badge/@NgModule-blue"/></a>
