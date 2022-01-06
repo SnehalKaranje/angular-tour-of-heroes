@@ -35,6 +35,8 @@ If you want to build this project locally, install following on local machine:
 - Dependency Injection
 - Synchronous and Asynchronous calls
 - Loosely coupled communication between services and component
+- Angular route (redirect route, parameterized route)
+- RouterLink directive
 - Decorators
 
   <a href="https://angular.io/api/core/NgModule"><img alt="NgModule" src="https://img.shields.io/badge/@NgModule-blue"/></a>
