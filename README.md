@@ -30,8 +30,12 @@ If you want to build this project locally, install following on local machine:
 - Event binding
 - Class binding to apply css style
 - Property binding
+- Generate new service
+- Provider
+- Dependency Injection
 - Decorators
 
-
+  <a href="https://angular.io/api/core/NgModule"><img alt="NgModule" src="https://img.shields.io/badge/@NgModule-blue"/></a>
   <a href="https://angular.io/api/core/Component"><img alt="Component" src="https://img.shields.io/badge/@Component-blue"/></a>
-  <a href="https://angular.io/guide/inputs-outputs"><img alt="Input" src="https://img.shields.io/badge/@Component-green"/></a>
+  <a href="https://angular.io/guide/inputs-outputs"><img alt="Input" src="https://img.shields.io/badge/@Input-blue"/></a>
+  <a href="https://angular.io/api/core/Injectable"><img alt="Injectable" src="https://img.shields.io/badge/@Injectable-blue"/></a>
