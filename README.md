@@ -29,7 +29,9 @@ If you want to build this project locally, install following on local machine:
 - Generate new interface
 - Event binding
 - Class binding to apply css style
+- Property binding
 - Decorators
 
 
   <a href="https://angular.io/api/core/Component"><img alt="Component" src="https://img.shields.io/badge/@Component-blue"/></a>
+  <a href="https://angular.io/guide/inputs-outputs"><img alt="Input" src="https://img.shields.io/badge/@Component-green"/></a>
