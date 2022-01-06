@@ -28,6 +28,7 @@ If you want to build this project locally, install following on local machine:
 - Two-way binding
 - Generate new interface
 - Event binding
+- Class binding to apply css style
 - Decorators
 
 
