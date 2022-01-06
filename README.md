@@ -27,6 +27,7 @@ If you want to build this project locally, install following on local machine:
 - Pipe operator (uppercase)
 - Two-way binding
 - Generate new interface
+- Event binding
 - Decorators
 
 
